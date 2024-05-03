@@ -1,0 +1,39 @@
+git add . 
+#stage the recent file
+
+git restore --staged 
+#unstage all stages file that recently added
+
+git restore (samarth/helloworld.txt)=> (enter file name with location)
+
+
+git reset --hard
+#it use for restore last changes in file 
+
+(stash region)
+#hanges you've made to your working copy so you can work on something else, and then come back and re-apply them later on.
+
+git fetch
+#it use for fetching the all new updates in repo/files
+
+git merge (ctrl+ shift +m)
+# it merge the branch with main branch.
+
+git merge (branch name)
+#it merge the branch with main
+but for that you want to inside the 
+
+git remote rm (remote branches name)
+#it use for remove the remote 
+
+remote:- it is like a pointer that show the repository/ it is like a address in repository.
+
+git branch 
+it show the branches in repository.
+
+conflict:-
+when two separate branches have made edits to the same line in a file, 
+or when a file has been deleted in one branch but edited in the other.
+
+chery-pick:-
+command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.

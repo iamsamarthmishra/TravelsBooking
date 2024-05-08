@@ -1,0 +1,23 @@
+Main Command 
+
+-- git status--
+red= git add . (not done)
+green= git add. (git commit) - done
+blank after enter =  push on the server
+
+
+--git add . --
+git add help your code to connect with your server repo
+
+--git commit -m "message here" --
+git commit is a small message file that help you in future.
+
+--git push--
+git push help your code to reach at your repo.
+
+--git fetch--
+it help your code to go or come back in your default place.
+after that we want to re "git push" that code.
+
+--git pull--
+it help you to fetch all update in your system
